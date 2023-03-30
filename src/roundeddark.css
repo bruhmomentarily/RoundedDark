@@ -1,3 +1,4 @@
+
 /* Restore Old Titlebar */
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
@@ -20,6 +21,8 @@
     --scrollbar-auto-track: transparent;
     --scrollbar-auto-scrollbar-color-thumb: var(--darkgrey);
     --scrollbar-auto-scrollbar-color-track: transparent;
+    /* i hope this works */
+    text-transform: uppercase;
 }
 
 /* Voice Chat */
