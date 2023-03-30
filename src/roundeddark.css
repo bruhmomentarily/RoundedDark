@@ -3,6 +3,8 @@
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
 :root {
+    /* i hope this works */
+    text-transform: uppercase;
     --font-display: var(--font-primary) !important;
     --backdrop: rgba(0,0,0,.3);
     --settings-min-height: 450px;
@@ -21,8 +23,6 @@
     --scrollbar-auto-track: transparent;
     --scrollbar-auto-scrollbar-color-thumb: var(--darkgrey);
     --scrollbar-auto-scrollbar-color-track: transparent;
-    /* i hope this works */
-    text-transform: uppercase;
 }
 
 /* Voice Chat */
